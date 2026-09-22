@@ -27,8 +27,8 @@ body {
 
 .profile-picture {
     border-radius: 100px;
-    height: 120px;
-    width: 120px;
+    height: 110px;
+    width: 110px;
     display: block;
     margin: auto;
 }
@@ -37,7 +37,8 @@ h1 {
     color: white;
     text-align: center;
     font-family: "inter", sans-serif;
-    font-size: 30px;
+    font-size: 25px;
+    margin-top: 10px;
 
 }
 
@@ -47,15 +48,15 @@ h1 {
     font-weight: 600px;
     text-align: center;
     font-family: "inter", sans-serif;
+    margin-top: -12px;
 }
-
 .bio {
     color: rgb(188, 184, 184);
     text-align: center;
     font-family: "inter", sans-serif;
     font-size: 14px;
+    margin-top: 20px;
 }
-
 .social-link {
     display: block;
     background-color: #333;
@@ -68,8 +69,10 @@ h1 {
     text-align: center;
     border-radius: 10px;
     width: 200px;
-    margin: 0 auto 10px;
-} .social-link:hover {
+    margin: 0 auto 15px;
+}
+
+.social-link:hover {
     background-color: #c5f82a;
     color: black;
     transform: scale(1.02);
