@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+.card {
+    height: 500px;
+    width: 350px;
+    background-color: #222222;
+}
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile-picture {
+    border-radius: 100px;
+    height: 120px;
+    width: 120px;
+    display: block;
+    margin: auto;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "inter", sans-serif;
+    font-size: ;
+}
+.location {
+    color: hsl(75, 94%, 57%);
+    font-size: 14px;
+    font-weight: 400px;
+    text-align: center;
+    font-family: sans-serif;
+}
